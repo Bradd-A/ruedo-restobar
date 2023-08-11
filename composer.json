@@ -1,0 +1,15 @@
+{
+    "name": "arteaga/ruedo",
+    "autoload": {
+        "psr-4": {
+            "Arteaga\\Ruedo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bradd Arteaga",
+            "email": "braddpierce75@gmail.com"
+        }
+    ],
+    "require": {}
+}
