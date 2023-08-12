@@ -1,0 +1,15 @@
+{
+    "name": "arteaga/tes",
+    "autoload": {
+        "psr-4": {
+            "Arteaga\\Tes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bradd Arteaga",
+            "email": "braddpierce75@gmail.com"
+        }
+    ],
+    "require": {}
+}
